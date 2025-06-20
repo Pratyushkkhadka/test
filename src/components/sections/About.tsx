@@ -16,7 +16,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div className="space-y-8">
             <div>
-              <h2 className="text-4xl lg:text-5xl font-bold mb-6">About DevStudio</h2>
+              <h2 className="text-4xl lg:text-5xl font-bold mb-6">About Believe IT</h2>
               <p className="text-xl text-muted-foreground leading-relaxed mb-6">
                 We are a passionate team of designers and developers who believe in the power of 
                 great design and clean code. Our mission is to help businesses create digital 

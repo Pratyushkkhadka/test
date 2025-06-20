@@ -7,7 +7,7 @@ const teamMembers = [
     name: "Pratyush Khadka",
     role: "CEO & Founder",
     description: "Visionary leader with 12+ years in tech, driving innovation and strategic growth.",
-    image: "/lovable-uploads/bc943c02-5e94-4c92-aa9a-5287346d3dad.png"
+    image: "/uploads/bc943c02-5e94-4c92-aa9a-5287346d3dad.png"
   },
   {
     name: "Shyam Khadka",
