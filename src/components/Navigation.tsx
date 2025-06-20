@@ -130,7 +130,7 @@ const Navigation = () => {
               Pricing
             </Link>
             <button 
-              onClick={() => scrollToSection("")}
+              onClick={() => scrollToSection("team")}
               className="block w-full text-left text-foreground hover:text-primary transition-colors"
             >
               Team

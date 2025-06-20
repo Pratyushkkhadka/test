@@ -212,7 +212,10 @@ const Pricing = () => {
   const categoryRefs = useRef<{ [key: string]: HTMLDivElement | null }>({});
 
   useEffect(() => {
-    // Only scroll to specific sections if explicitly requested via state
+    // Always scroll to top when the page first loads
+    window.scrollTo(0, 0);
+    
+    // Only scroll to specific sections if explicitly requested via state AND it's not a fresh page load
     if (location.state?.scrollTo && location.state.scrollTo !== 'top') {
       const targetCategory = location.state.scrollTo;
       
