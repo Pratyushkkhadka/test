@@ -90,6 +90,20 @@ const pricingPlans = [
           "4 months support"
         ],
         popular: true
+      },
+      {
+        name: "Enterprise Solution",
+        price: "$15,000 - $50,000",
+        description: "Large-scale web applications",
+        features: [
+          "Custom development",
+          "Advanced features",
+          "Third-party integrations",
+          "Performance optimization",
+          "Security features",
+          "6 months support"
+        ],
+        popular: false
       }
     ]
   },
@@ -125,6 +139,20 @@ const pricingPlans = [
           "Ongoing support"
         ],
         popular: true
+      },
+      {
+        name: "Enterprise Solution",
+        price: "$15,000 - $50,000",
+        description: "Large-scale web applications",
+        features: [
+          "Custom development",
+          "Advanced features",
+          "Third-party integrations",
+          "Performance optimization",
+          "Security features",
+          "6 months support"
+        ],
+        popular: false
       }
     ]
   },
@@ -160,6 +188,20 @@ const pricingPlans = [
           "Monthly reports"
         ],
         popular: true
+      },
+      {
+        name: "Enterprise Solution",
+        price: "$15,000 - $50,000",
+        description: "Large-scale web applications",
+        features: [
+          "Custom development",
+          "Advanced features",
+          "Third-party integrations",
+          "Performance optimization",
+          "Security features",
+          "6 months support"
+        ],
+        popular: false
       }
     ]
   }
